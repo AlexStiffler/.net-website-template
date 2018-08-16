@@ -100,7 +100,7 @@ img.rounded-circle
 }
 #detail
 {
-    margin-top: -4rem;
+        margin-top: -3rem;
     margin-bottom: -1rem;
 }
 .white-skin .side-nav .collapsible li .collapsible-header:hover, .white-skin .side-nav .collapsible li .collapsible-header:active
