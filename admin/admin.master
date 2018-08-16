@@ -70,15 +70,11 @@
                     <h5 class="mt-2 ml-3">SIInfotech Pvt. Ltd.</h5>
                 </div>
                 <ul class="nav navbar-nav nav-flex-icons ml-auto">
-                    <li class="nav-item">
-                        <a class="nav-link waves-effect" data-toggle="modal" data-target="#techSupport"><i class="fa fa-comments-o"></i><span class="clearfix d-none d-sm-inline-block">Support</span></a>
-                    </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle waves-effect" href="#" id="userDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <i class="fa fa-user"></i><span class="clearfix d-none d-sm-inline-block">
-                                <span id="ctl00_lblWelcomeMsg">Welcome Demo</span></span></a>
+                                <span id="ctl00_lblWelcomeMsg">Welcome Admin</span></span></a>
                         <div class="dropdown-menu dropdown-menu-right" aria-labelledby="userDropdown">
-                            <a href="Profile.aspx" class="dropdown-item">My account</a>
                             <a class="dropdown-item" href="ChangePassword.aspx">Change Password</a>
                             <a class="dropdown-item" href='#'>Log Out</a>
                         </div>
